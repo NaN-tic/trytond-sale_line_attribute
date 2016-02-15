@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:sale.line,attribute_set:"
+msgid "Attribute Set"
+msgstr "Grupo de atributos"
+
+msgctxt "field:sale.line,attributes:"
+msgid "Attributes"
+msgstr "Atributos"
+
+msgctxt "view:sale.line:"
+msgid "Attributes"
+msgstr "Atributos"
