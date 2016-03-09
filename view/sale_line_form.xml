@@ -9,7 +9,6 @@ copyright notices and license terms. -->
     </xpath>
     <xpath expr="/form/notebook" position="inside">
         <page string="Attributes" id="attributes">
-            <field name="all_attributes" colspan="2"/>
             <field name="attributes" colspan="2"/>
         </page>
     </xpath>
