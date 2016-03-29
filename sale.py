@@ -16,10 +16,10 @@ except ImportError:
 
 
 __all__ = ['SaleLine']
-__metaclass__ = PoolMeta
 
 
 class SaleLine:
+    __metaclass__ = PoolMeta
     __name__ = 'sale.line'
     attributes = fields.Dict('product.attribute', 'Attributes',
         domain=[
